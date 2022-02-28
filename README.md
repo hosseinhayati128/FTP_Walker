@@ -1,6 +1,6 @@
 # FTP_Walker
 
-I needed a function like os.walk on FTP and there where not any so i thought it would be useful to write it 
+I needed a function like os.walk on FTP server and couldn't find anything anywhere. so i decided to develope it 
 
 ## how to use:
 
